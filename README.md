@@ -18,8 +18,9 @@ PRECIFIPE é uma aplicação desenvolvida em **Java** com **Spring Boot** que pe
 - Spring Boot
 - Maven Wrapper
 - Jackson Databind
-- API pública da FIPE:  
-  [https://parallelum.com.br/fipe/api/v1/](https://parallelum.com.br/fipe/api/v1/)
+- API **"FIPE API HTTP REST"** do [Deivid Fortuna](https://github.com/deividfortuna)  
+  Documentação: [https://deividfortuna.github.io/fipe/](https://deividfortuna.github.io/fipe/)
+
 
 ## ▶️ Como executar
 
